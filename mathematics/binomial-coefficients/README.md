@@ -23,4 +23,4 @@ The result can be calculated by the following steps:
  3. Multiply the factorial with the 2 inverses (while doing modulo in each step).
 
 ## Catches
-Having the modulo as an unsigned integer (`constexpr uint64_t MOD = 1'000'000'007;`) rather than signed can lead to bugs when using the extended Euclidean algorithm.
+Having the modulo as an unsigned integer (`constexpr uint64_t MOD = 1'000'000'007;`) rather than signed can lead to bugs when using the extended Euclidean algorithm. It is probably due to implicit conversion/type promotion (negative int64_t gets converted to uint64_t), as mentioned in this [cppcon talk](https://youtu.be/UONLB7wBVSc?t=2355) 
