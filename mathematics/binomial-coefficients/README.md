@@ -1,6 +1,7 @@
 # # Binomial Coefficients - solution
 
 [Link to code - implementation (extended Euclidean algorithm)](https://github.com/simon-hrabec/cses-solutions/blob/master/mathematics/binomial-coefficients/binomial-coefficients-eea.cpp)
+
 [Link to code - implementation (Fermat's little theorem)](https://github.com/simon-hrabec/cses-solutions/blob/master/mathematics/binomial-coefficients/binomial-coefficients-flt.cpp)
 
 This problem is either medium or hard difficulty depending on your knowledge of certain field of mathematics. This problem asks for a binomial coefficient. It has quite straigtfoward formula to calculate
