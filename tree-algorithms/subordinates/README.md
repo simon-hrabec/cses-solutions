@@ -1,4 +1,4 @@
-# Subordinates - solutions
+# Subordinates - solution
 
 [Link to code - implementation](https://github.com/simon-hrabec/cses-solutions/blob/master/tree-algorithms/subordinates/subordinates.cpp)
 
