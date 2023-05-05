@@ -3,6 +3,11 @@ CSES Problem Set - Solutions and Explanations
 
 # Problems
 
+## Sorting and Searching
+| Name | Problem | Difficulty | Solved/Attempted | Success rate | USACO Guide |
+| --- | --- | --- | --- | --- | --- |
+| [Distinct Numbers](https://github.com/simon-hrabec/cses-solutions/tree/master/sorting-and-searching/distinct-numbers) | [1621](https://cses.fi/problemset/task/1621) | Easy | 31321 / 35184 | 89% | [Editorial](https://usaco.guide/problems/cses-1621-distinct-numbers/solution)
+
 ## Tree Algorithms
 | Name | Problem | Difficulty | Solved/Attempted | Success rate | USACO Guide |
 | --- | --- | --- | --- | --- | --- |
