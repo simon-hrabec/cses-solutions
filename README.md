@@ -17,3 +17,8 @@ CSES Problem Set - Solutions and Explanations
 | Name | Problem | Difficulty | Solved/Attempted | Success rate | USACO Guide |
 | --- | --- | --- | --- | --- | --- |
 | [Binomial Coefficients](https://github.com/simon-hrabec/cses-solutions/tree/master/mathematics/binomial-coefficients) | [1079](https://cses.fi/problemset/task/1079/) | Medium/Hard | 4079 / 4666 | 87% | [Editorial](https://usaco.guide/gold/combo?lang=cpp)
+
+## Additional Problems
+| Name | Problem | Difficulty | Solved/Attempted | Success rate | USACO Guide |
+| --- | --- | --- | --- | --- | --- |
+| [Maximum Xor Subarray](https://github.com/simon-hrabec/cses-solutions/tree/master/additional-problems/maximum-xor-subarray) | [1655](https://cses.fi/problemset/task/1655/) | Medium | 1060 / 1159 | 91% | Missing
